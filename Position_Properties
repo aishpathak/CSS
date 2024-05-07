@@ -1,0 +1,7 @@
+Static
+Relative: changes the position of the HTML element relative to where it normally appears. 
+Or we can say it will move 10px ,10px left or right from
+its immediate parent where it is.
+Absolute
+Fixed: fixed will be fixed with body if we are giving top,left properties
+Sticky
